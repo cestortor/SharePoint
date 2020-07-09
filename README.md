@@ -1,2 +1,2 @@
 # SharePoint
-Useful tips when you work with Microsoft SharePoint
+Funciones útiles cuando trabajas con Microsoft SharePoint 
